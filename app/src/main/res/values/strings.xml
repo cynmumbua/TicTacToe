@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="Beginner">Beginner mode</string>
+    <string name="Intermediate">Intermediate Mode</string>
+    <string name="Exit">Exit Game</string>
+    <string name="Game_Details">How to play</string>
+    <string name="beginnerMethod">beginnerClick</string>
+    <string name="intermediateMethod">intermediateClick</string>
+    <string name="detailsMethod">gameDetailsClick</string>
+    <string name="exitMethod">Exit_Click</string>
+    <string name="Reset">Reset</string>
+
+</resources>
